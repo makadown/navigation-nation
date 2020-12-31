@@ -31,3 +31,8 @@ Fonts Google (this project uses Nunito)
 ```
 https://fonts.google.com/
 ```
+
+CSS animation documentation
+```
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation
+```
